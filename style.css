@@ -1,0 +1,26 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	background:url(./header.jpg)  no-repeat center center fixed;
+	background-size: cover;
+}
+h2{
+	font-family: 'Langar', cursive;
+	font-size: 3rem;
+	color: #25405a;
+}
+
+.btn-xl{
+	padding:1rem 2rem;
+	font-weight: 700;
+	border-radius: 200px;
+	text-transform: uppercase;
+	background-color: black;
+	border-color: black;
+}
+.btn-xl:hover{
+	border-width:6px;
+}
+.space{
+	height:2rem;
+}
